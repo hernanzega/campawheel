@@ -30,7 +30,7 @@ let myChart = new Chart(wheel, {
   type: "pie",
   data: {
     //Labels(values which are to be displayed on chart)
-    labels: ["GRUPO 1", "GRUPO 2", "GRUPO 3", "GRUPO 1", "GRUPO 2", "GRUPO 3"],
+    labels: ["I", "II", "III", "I", "II", "III"],
     //Settings for dataset/pie
     datasets: [
       {
