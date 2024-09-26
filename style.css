@@ -49,7 +49,7 @@ body {
   border-radius: 50%;
   cursor: pointer;
   border: 0;
-  background: radial-gradient(#fdcf3b 50%, #d88a40 85%);
+  background-image: url('logo.png');
   color: #c66e16;
   text-transform: uppercase;
   font-size: 1.8em;
